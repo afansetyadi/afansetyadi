@@ -25,10 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afansetyadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=afansetyadi&theme=algolia&margin-w=15&no-frame=true" alt="Trophies" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
