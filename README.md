@@ -14,7 +14,7 @@
 ### 🛠️ All Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,php,mysql,postgres,prisma,vercel,docker,git,cloudflare,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,php,python,mysql,postgres,prisma,vercel,docker,git,cloudflare,notion,figma" />
 </p>
 
 ---
