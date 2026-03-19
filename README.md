@@ -7,14 +7,14 @@
 
 ### 🚀 Tech Stack
 
-- React · Next.js · TypeScript · Javascript ·  Tailwind · PHP Native · MySQL · PostgreSQL · n8n · LLM
+- React · Next.js · TypeScript · Javascript ·  Tailwind · PHP Native  · Python · MySQL · PostgreSQL · n8n · LLM
 
 ---
 
 ### 🛠️ All Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,php,python,mysql,postgres,prisma,vercel,docker,git,cloudflare,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,php,python,mysql,postgres,prisma,vercel,docker,git,cloudflare,notion,figma" />
 </p>
 
 ---
