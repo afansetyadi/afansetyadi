@@ -24,8 +24,8 @@
 ### 🧠 GitHub Stats & Activity
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="195" src="https://streak-stats.demolab.com?user=afansetyadi&disable_animations=true&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
