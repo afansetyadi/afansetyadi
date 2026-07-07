@@ -22,7 +22,12 @@
 ### 🧠 GitHub Stats & Activity
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=afansetyadi" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=afansetyadi&disable_animations=true&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
