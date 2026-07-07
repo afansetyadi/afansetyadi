@@ -53,6 +53,31 @@
 
 ---
 
+### 💻 Top Languages & 🏆 Trophies
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=0d1117&title_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" />
+        <img width="400" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" />
+        <img width="100%" src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
