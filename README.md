@@ -66,9 +66,9 @@
     </td>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=2&margin-w=8&margin-h=8" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=2&margin-w=8&margin-h=8" />
-        <img width="400" src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=2&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=6&margin-w=4&margin-h=4" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=4&margin-h=4" />
+        <img width="400" src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies" />
       </picture>
     </td>
   </tr>
