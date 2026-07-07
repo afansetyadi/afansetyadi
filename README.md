@@ -23,10 +23,16 @@
 
 ### 🧠 GitHub Stats & Activity
 
-<p align="left">
-  <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img height="195" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td valign="top">
+      <img width="400" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
