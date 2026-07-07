@@ -57,11 +57,18 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=0d1117&title_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" />
-        <img width="400" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" alt="Top Languages" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&langs_count=8&hide_progress=false&percent_length=2&custom_title=Language%20Usage&bg_color=0d1117&title_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&langs_count=8&hide_progress=false&percent_length=2&custom_title=Language%20Usage&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" />
+        <img width="400" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&langs_count=8&hide_progress=false&percent_length=2&custom_title=Language%20Usage&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" alt="Language Usage" />
+      </picture>
+    </td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=donut&langs_count=8&percent_length=2&custom_title=Language%20Share&bg_color=0d1117&title_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=donut&langs_count=8&percent_length=2&custom_title=Language%20Share&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" />
+        <img width="400" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=donut&langs_count=8&percent_length=2&custom_title=Language%20Share&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" alt="Language Share" />
       </picture>
     </td>
   </tr>
