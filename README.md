@@ -26,15 +26,27 @@
 <table>
   <tr>
     <td valign="top">
-      <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF" alt="GitHub Streak" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&hide_border=true&background=ffffff&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideNums=1f2328&sideLabels=1f2328&dates=656d76&currStreakNum=1f2328" />
+        <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&hide_border=true&background=ffffff&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideNums=1f2328&sideLabels=1f2328&dates=656d76&currStreakNum=1f2328" alt="GitHub Streak" />
+      </picture>
     </td>
     <td valign="top">
-      <img width="400" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" alt="GitHub Stats" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" />
+        <img width="400" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" alt="GitHub Stats" />
+      </picture>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=FFFFFF&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=0A66C2&line=0A66C2&point=FFFFFF&custom_title=Contribution%20Graph" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=minimal&hide_border=true&area=true&bg_color=ffffff&color=0A66C2&line=0A66C2&point=0A66C2&custom_title=Contribution%20Graph" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=minimal&hide_border=true&area=true&bg_color=ffffff&color=0A66C2&line=0A66C2&point=0A66C2&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+      </picture>
     </td>
   </tr>
 </table>
