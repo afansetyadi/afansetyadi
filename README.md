@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Afan</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afansetyadi&label=Profile%20views&color=0e75b6&style=flat" alt="afansetyadi" />
+  I am a Software Engineer based in Indonesia, passionate about building clean, scalable, and user-focused web applications. I work across the full stack with React, Next.js, TypeScript, Python, and PHP Native on the frontend/backend, backed by MySQL and PostgreSQL. Lately I'm exploring automation with n8n and integrating LLMs to build smarter, AI-powered workflows. Always learning, always shipping — I enjoy turning ideas into products that solve real problems. Feel free to connect with me! 🚀
+</p>
+
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=afansetyadi&label=Profile%20views&color=0e75b6&style=flat" alt="afansetyadi" />
 </p>
 
 ---
@@ -66,9 +70,9 @@
     </td>
     <td valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=6&margin-w=4&margin-h=4" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=4&margin-h=4" />
-        <img width="400" src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=3&margin-w=6&margin-h=6" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=3&margin-w=6&margin-h=6" />
+        <img width="420" src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=3&margin-w=6&margin-h=6" alt="GitHub Trophies" />
       </picture>
     </td>
   </tr>
