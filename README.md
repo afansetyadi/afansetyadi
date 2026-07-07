@@ -7,13 +7,15 @@
 
 ### 🚀 Tech Stack
 
-- React · Next.js · TypeScript · Javascript ·  Tailwind · PHP Native  · Python · MySQL · PostgreSQL · n8n · LLM
+<p align="center">
+  React · Next.js · TypeScript · Javascript · Tailwind · PHP Native · Python · MySQL · PostgreSQL · n8n · LLM
+</p>
 
 ---
 
 ### 🛠️ All Tech & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,php,python,mysql,postgres,prisma,vercel,docker,git,cloudflare,notion,figma" />
 </p>
 
@@ -21,19 +23,19 @@
 
 ### 🧠 GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=afansetyadi&disable_animations=true&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img height="195" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com?user=afansetyadi&disable_animations=true&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=react-dark" alt="GitHub Activity Graph" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=afansetyadi&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/afansetyadi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/afansetyadi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
