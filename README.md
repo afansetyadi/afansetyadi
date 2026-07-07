@@ -22,7 +22,7 @@
 ### 🧠 GitHub Stats & Activity
 
 <p align="left">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=afansetyadi)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=afansetyadi" alt="GitHub Streak" /></a>
 </p>
 
 ---
