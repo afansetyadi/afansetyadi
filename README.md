@@ -22,7 +22,7 @@
 ### 🧠 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afansetyadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=afansetyadi)](https://git.io/streak-stats)
 </p>
 
 ---
