@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td valign="top">
-      <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&theme=blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+      <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=afansetyadi&disable_animations=true&hide_border=true&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF" alt="GitHub Streak" />
     </td>
     <td valign="top">
-      <img width="400" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&theme=blue&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+      <img width="400" src="https://github-readme-stats-alpha.vercel.app/api?username=afansetyadi&show_icons=true&bg_color=0d1117&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
