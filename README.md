@@ -57,26 +57,15 @@
 
 ---
 
-### 💻 Top Languages & 🏆 Trophies
+### 🏆 Trophies
 
-<table>
-  <tr>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=0d1117&title_color=0A66C2&text_color=FFFFFF&border_color=0d1117&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" />
-        <img width="400" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=afansetyadi&layout=compact&langs_count=8&bg_color=ffffff&title_color=0A66C2&text_color=1f2328&border_color=ffffff&hide_border=true" alt="Top Languages" />
-      </picture>
-    </td>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=3&margin-w=6&margin-h=6" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=3&margin-w=6&margin-h=6" />
-        <img width="420" src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=3&margin-w=6&margin-h=6" alt="GitHub Trophies" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=6&margin-w=6&margin-h=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=6&margin-h=6" />
+    <img src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=6&margin-h=6" alt="GitHub Trophies" />
+  </picture>
+</p>
 
 ---
 
