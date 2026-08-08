@@ -61,9 +61,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=6&margin-w=6&margin-h=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=6&margin-h=6" />
-    <img src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=6&margin-w=6&margin-h=6" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=onedark&no-frame=true&column=7&margin-w=6&margin-h=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=7&margin-w=6&margin-h=6" />
+    <img src="https://github-profile-trophy-gamma.vercel.app/?username=afansetyadi&theme=flat&no-frame=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies" />
   </picture>
 </p>
 
